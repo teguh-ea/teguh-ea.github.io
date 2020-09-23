@@ -1,0 +1,47 @@
+.menu {
+    position: sticky;
+    top: 0;
+    background-color: #c87941; 
+    margin: 0;
+    padding: 0;
+}
+
+.menu li {
+    display: inline-block;
+    padding: 15px;
+}
+
+.tampil {
+    text-align: center;
+    font-size: 30px;
+}
+
+.tengah {
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin: auto;
+}
+
+.product {
+    border: 1px solid black;
+    padding: 15px 15px 15px 15px;
+    width: 500px;
+    background-color: ghostwhite;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.product table tr td img {
+    width: 250px;
+}
+
+.pesan {
+    width: 500px;
+}
+
+.pesan table tr td img {
+    width: 100px;
+}
